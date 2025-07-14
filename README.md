@@ -53,6 +53,14 @@ ADD credentials:
 ```bash
 python redditpersona.py
 ```
+## 6. Output
+Generates persona_[username].txt for each profile
+
+Includes:
+Demographics
+Interests
+Behavioral patterns
+Citations from Reddit activity
 
 ## Troubleshooting
 Error                                	  Solution
